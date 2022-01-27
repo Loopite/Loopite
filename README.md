@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**Loopite/Loopite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on a new crypto-currency. 
+I'm a web developer who's working currently to deepen his skills in C++.
+Furthermore, I contribute to the BIP.
 
-Here are some ideas to get you started:
+**Here are my donation addresses :**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Bitcoin**
+
+Legacy (P2PKH) : **no availble for security reasons.**
+
+Native Segwit : **bc1qtflqr8ua3awhgtk8jlxkcjlp57jfsq2qy8hljr**
+
+Segwit : **3JScnM257hY9WU2jbyht4mWpnrMvaz867j**
+
+Taproot : **bc1pxyzarkramvv24wtahh0g7tgmdrwy9qhj7aum3zmlpdj2356hl0pslkujng**
+
+**Dogecoin**
+
+Legacy (P2PKH) : **DQy96Lfz9ZwivJSm5JZaNqaW1YpGBJNekE**
