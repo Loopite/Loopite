@@ -2,9 +2,9 @@
 
 ## **Presentation**
 
-🧙 I’m currently working on a new crypto-currency. 
-🔥 I'm a web developer who's working currently to deepen his skills in C++.
-Furthermore, I contribute to the BIP.
+🧙 I’m currently working on a new crypto-currency.<br/>
+🔥 I'm a web developer who's working currently to deepen his skills in C++.<br/>
+🔑 Furthermore, I contribute to the BIP.
 
 ## **Here are my donation addresses :**
 
