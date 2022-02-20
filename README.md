@@ -14,7 +14,7 @@ Taproot : **bc1pxyzarkramvv24wtahh0g7tgmdrwy9qhj7aum3zmlpdj2356hl0pslkujng**
 
 **Unicitycoin**
 
-Legacy (P2PKH, testnet) : **UdCBcLbiUCJMxZPzPSRPV3XrbMYRThy2vK**
+Legacy (P2PKH, testnet) : **UhoiP1WogeRVPMkzb12NijxP7B2gYANCHV**
 
 **Dogecoin**
 
