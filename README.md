@@ -12,10 +12,11 @@
 
 Taproot : **bc1pxyzarkramvv24wtahh0g7tgmdrwy9qhj7aum3zmlpdj2356hl0pslkujng**
 
-**Unicitycoin**
-
-Legacy (P2PKH, testnet) : **ELzjvf6wH4uYZRPUm8YLS3vWMXfHERvf1e**
-
 **Dogecoin**
 
 Legacy (P2PKH) : **DQy96Lfz9ZwivJSm5JZaNqaW1YpGBJNekE**
+
+## **Contacts**
+
+**E-Mail :** loopite@research-institute.uk
+**Discord :** Loopite#0514
