@@ -16,6 +16,11 @@ Taproot : **bc1pxyzarkramvv24wtahh0g7tgmdrwy9qhj7aum3zmlpdj2356hl0pslkujng**
 
 Legacy (P2PKH) : **DQy96Lfz9ZwivJSm5JZaNqaW1YpGBJNekE**
 
+**UTN**
+
+Legacy (Developer address, testnet) : **DPCREs66BHEJJ3h4egrEiaWYyY93MTdF74**
+Legacy (Developer address, mainnet) : **AAVbMzhnVqXHkaaNTLBgqaLFwW5Vj1LUVs**
+
 ## **Contacts**
 
 **E-Mail :** loopite@research-institute.uk
