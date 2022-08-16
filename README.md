@@ -17,6 +17,6 @@ Legacy (Developer address, **mainnet**) : **AAVbMzhnVqXHkaaNTLBgqaLFwW5Vj1LUVs**
 
 ## **Contacts**
 
-**E-Mail :** loopite@research-institute.uk
+**E-Mail :** pierre.utn@gmx.com
 
 **Discord :** Loopite#0514
