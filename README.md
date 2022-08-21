@@ -8,7 +8,7 @@ Taproot : **bc1pxyzarkramvv24wtahh0g7tgmdrwy9qhj7aum3zmlpdj2356hl0pslkujng**
 
 **Dogecoin**
 
-Legacy (Developer address, **mainnet**) : **AF3trXVo9LwoJsM1XigvMBxWGt7yYATp8t**<br>
+Legacy (**mainnet**) : **DPp3TsCeUFXKf9Cq4Z8YzrkimatGTXmrce**<br>
 
 **UTN**
 
