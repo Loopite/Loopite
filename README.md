@@ -13,6 +13,4 @@ Legacy (Developer address, **mainnet**) : **AAVbMzhnVqXHkaaNTLBgqaLFwW5Vj1LUVs**
 
 ## **Contacts**
 
-**E-Mail :** loopite@gmx.com
-
-**Discord :** Loopite#0514
+**Discord :** Ar4Kn3#0514
