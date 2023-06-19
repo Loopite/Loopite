@@ -13,4 +13,4 @@ Legacy (Developer address, **mainnet**) : **AAVbMzhnVqXHkaaNTLBgqaLFwW5Vj1LUVs**
 
 ## **Contacts**
 
-**Discord :** Loopite#0514
+**Discord username :** loopite
