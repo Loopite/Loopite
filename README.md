@@ -4,7 +4,7 @@
 
 **Dogecoin**
 
-Legacy (**mainnet**) : **DPp3TsCeUFXKf9Cq4Z8YzrkimatGTXmrce**<br>
+Legacy (**mainnet**) : **DA3W3jFyJuhXrCybAKZXRRj446YifCE1cQ**<br>
 
 **UTN**
 
